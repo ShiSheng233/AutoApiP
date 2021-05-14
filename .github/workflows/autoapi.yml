@@ -1,5 +1,5 @@
 #每6小时调用一次（周六日不启动）
-name: Auto Api Pro
+name: Refresh
 
 on: 
   release:
